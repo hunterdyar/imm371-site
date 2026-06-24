@@ -42,6 +42,7 @@ So let's all interrogate these projects together. Don't just try to surprise me,
 - History (Temporal Adjustments). [Eyecode](http://flong.com/archive/projects/eyecode/index.html), [Reface](http://flong.com/archive/projects/reface/index.html)
 - Overlays (Juxtaposition a la fact filter), Distortion.
 - Interactivity (Play, not about a mirror) - [Footfalls](http://flong.com/archive/projects/footfalls/index.html)
+- Morphing Clay (Recontextualization of form) - [Mattering Studio](https://matteringstudio.com/)
 
 ## Takes on Displays
 
